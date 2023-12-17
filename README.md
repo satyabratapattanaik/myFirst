@@ -1,4 +1,4 @@
 # myFirst
 This is a Demo Repository.
 <br>
-Author - Satyabrata Pattanaik
+Author - Satyabrata Pattanaik (root user)
